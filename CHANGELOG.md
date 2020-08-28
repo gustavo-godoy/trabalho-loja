@@ -6,11 +6,16 @@ Este arquivo não adere ao esquema de versionamento semantico.
 Na verdade, não adere a versionamento nenhum, é totalmente arbitrário.
 
 ## [A ser liberado]
+### Removido
+* Arquivo getData.cpp que não será usado neste momento
+### Alterado
+* Incluso mais informações no README.md
+* Atualizado CHANGELOG.md
 
 ## [0.0.2] 2020-08-17
 ### Adicionado
-- Um Changelog!
+* Um Changelog!
 ### Removido
-- Arquivos que provavelmente vão ser desnecessários
+* Arquivos que provavelmente vão ser desnecessários
 
 ## [0.0.1] Commit Initial
