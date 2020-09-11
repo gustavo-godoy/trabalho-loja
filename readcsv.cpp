@@ -110,7 +110,7 @@ Tabela lerCSV(const char* arquivo){
 
 int main(){
     float * array;
-    Tabela arquivo = lerCSV("ativo.csv");
+    Tabela arquivo = lerCSV("diario/ativo.csv");
     size_t arraySize = arquivo["Close"].toFloat(array);
     
     for(size_t i=0; i< arraySize; ++i){
